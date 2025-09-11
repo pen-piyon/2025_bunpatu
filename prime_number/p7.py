@@ -45,4 +45,5 @@ print(f"{time.time()-old}秒かかったよ")
 print(f"最後に見つけた素数は、{len(prime_data)}番目の{prime_data[len(prime_data)]}です\n")
 
 # Excel 1048576
+
 # https://tools.m-bsys.com/calculators/prime_number_generator.php で個数を確認
